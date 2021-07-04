@@ -47,7 +47,7 @@ function isAdminOrCreator(userId, chatId) {
   };
 
   // allow feng
-  if (userId == 539065210) {
+  if (userId == 1346776481) {
     return true;
   }
 
