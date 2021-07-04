@@ -5,9 +5,9 @@ Const.useMlab = false;
 //Live
 // Const.botToken = "机器人ID";
 //Debug
-Const.botToken = "机器人ID";
+Const.botToken = "1845724979:AAG1SKxQM0cXV2ojmQ3dh8CkV1xEyjwtlwM";
 Const.myId = parseInt(Const.botToken.split(":")[0]);
-Const.myName = "机器人的username";
+Const.myName = "zrgroupmgr_bot";
 Const.myName = Const.myName.toLowerCase();
 
 //以下是峰哥的数据库服务器，可以工作，可以用，没有数据库的可以保留
@@ -23,5 +23,5 @@ Const.groupSettingsColl = "group-settings";
 Const.toTelegram = "to-telegram";
 Const.fromTelegram = "from-telegram";
 
-Const.channelId = "@fengshare";
+Const.channelId = "@zrgroupmgr";
 Const.myAtName = "@" + Const.myName;
